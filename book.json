@@ -1,0 +1,28 @@
+{
+    "gitbook" : "2.x.x",
+    "links" : {
+        "sidebar" : {
+            "MYiR Technology Ltd." : "http://www.myir-tech.com"
+        }
+    },
+    
+    "plugins": [
+        "theme-comscore",
+        "-highlight"
+    ],
+
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+
+    "styles": {
+        "pdf": "styles/pdf.css"
+    },
+    
+    "pdf" : {
+        "paperSize" : "a4"
+    }
+
+}
